@@ -371,4 +371,4 @@ The library separates:
 This structure provides a foundation that can be extended to model more detailed electrical, cyber, communication, and control aspects of a power system.
 
 
-[← Back to the main documentation](README.md)
+[← Back to the main documentation](../README.md)

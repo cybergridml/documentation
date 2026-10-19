@@ -59,5 +59,5 @@ The communication hazards are optional, but they allow to represent scenarios of
 
 Communication hazards are described via the selection of a component, the definition of a failure percentage and the period during which this failure occurs.
 
-## [User Interface](../Modeling-guidelines.md)
+## [User Interface](../User-doc/Modeling-guidelines.md)
 CybergridML allows to represent the concepts of the [metamodel](../Principles/metamodels.md), while following this workflow. 

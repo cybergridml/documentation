@@ -106,4 +106,4 @@ To start it:
 npm start
 ```
 
-[← Back to the main documentation](README.md)
+[← Back to the main documentation](../README.md)

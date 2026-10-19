@@ -18,7 +18,7 @@ Follow these steps:
 ###  Open a CybergridML Project
 
 Start by opening or creating a **CybergridML** project using the available release.
-![CybergridML project](icons/cybergrid_project.png)
+![CybergridML project](../icons/cybergrid_project.png)
 <p align="center">
   <em>Figure 1 — CybergridML project</em>
 </p>
@@ -31,7 +31,7 @@ Download the SysML file corresponding to the example from the GitHub repository:
 
 Then, import this file into the CybergridML project.
 
-![CybergridML project](icons/upload-exemple.png)
+![CybergridML project](../icons/upload-exemple.png)
 <p align="center">
   <em>Figure 2 — Upload exemple</em>
 </p>
@@ -40,7 +40,7 @@ Then, import this file into the CybergridML project.
 
 Once the model has been imported, the different model elements can be viewed through the **views** available in the different packages.
 
-![CybergridML project](icons/CFA-expl.png)
+![CybergridML project](../icons/CFA-expl.png)
 
 *Figure 2 — CFA for example*
 
@@ -51,7 +51,7 @@ To visualize the model graphically, it is necessary to create a view in each `vi
 This step makes it possible to visually verify the structure and the different elements of the model.
 We will continue with the CFA view to demonstrate how graphical views can be created.
 
-![CybergridML project](icons/CFA-create-view.png)
+![CybergridML project](../icons/CFA-create-view.png)
 
 <p align="center">
   <em>Figure 2 — Create CFA view</em>
@@ -59,11 +59,11 @@ We will continue with the CFA view to demonstrate how graphical views can be cre
 
 Finally, the graphical view is shown here
 
-![CybergridML project](icons/CFA-result.png)
+![CybergridML project](../icons/CFA-result.png)
 
 <p align="center">
   <em>Figure 2 —  CFA graphical view</em>
 </p>
 
 
-[← Back to the main documentation](README.md)
+[← Back to the main documentation](../README.md)

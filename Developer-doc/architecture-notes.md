@@ -25,4 +25,4 @@ In CyberGridML, **SysML v2 defines the modeling language**, while **SysON provid
 
 
 
-[← Back to the main documentation](README.md)
+[← Back to the main documentation](../README.md)
